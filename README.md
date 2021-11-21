@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akadmt
+- 👋 Hi, I’m @Andrei
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
